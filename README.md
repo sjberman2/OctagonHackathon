@@ -8,9 +8,14 @@ The next questions are on how comfortable the respondent would feel about differ
 The final 2 questions are optional short responses to capture additional concerns over health and safety and features they would be looking for in an app. 
 The survey was conducted on google forms.
 
-![AgeSurvey](assets/AgeSurvey.png)
-![gender](assets/gendersurvey.png)
+![AgeSurvey](assets/AgeSurvey.png)  
+**Obeservation:** From this distribution we can see this is not a very diverse age range of respondents, most are late 20s / early 30s.  
+![gender](assets/gendersurvey.png)  
+**Observation:** 55% of respondents we're female, unsuprising considering our group is all girls distributing.   
 ![ticketsurvey](assets/ticketsurvey.png)
+
+**Perception of Saftey Measures**    
+How comfortable would respondents feel with current CDC recommendations? 
 ![TEMP](assets/TEMP.png) 
 ![MASK](assets/MASK.png)
 ![TRACE](assets/TRACE.png)
